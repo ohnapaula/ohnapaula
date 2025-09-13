@@ -19,7 +19,7 @@ Pronta para colaborar em projetos inovadores e fazer a diferença no mundo da te
   <br>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,postgres&perline=4" />
+      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode&perline=4" />
     </a>
   </p>
 </details>
