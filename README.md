@@ -1,6 +1,6 @@
 ### Fala devs! Me chamo Ana. 👩‍💻
 
-Pronta para colaborar em projetos inovadores e fazer a diferença no mundo da tecnologia. 🚀
+Bora codar? 🚀
 
 ### 📫 Conecte-se comigo
 
