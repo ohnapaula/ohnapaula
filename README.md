@@ -2,28 +2,6 @@
 
 Pronta para colaborar em projetos inovadores e fazer a diferença no mundo da tecnologia. 🚀
 
-### 🛠️ Minha Stack de Tecnologias
-
-<details>
-  <summary><b>Linguagens e Frameworks</b></summary>
-  <br>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,python,fastapi&perline=5" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>Bancos de Dados e Ferramentas</b></summary>
-  <br>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode&perline=4" />
-    </a>
-  </p>
-</details>
-
 ### 📫 Conecte-se comigo
 
 <div align="center">
