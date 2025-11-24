@@ -1,31 +1,45 @@
-# Olá, eu sou a Paula! 👋
+<div align="center">
 
-🎓 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **IFCE Campus Umirim** (2º semestre).
+# 💻 Paula
 
-🚀 Tenho grande interesse em tecnologia e resolução de problemas. Meu foco principal de estudos é o desenvolvimento **Backend**, onde busco aprofundar meus conhecimentos em lógica, bancos de dados e APIs, construindo a base para meu objetivo futuro de me tornar uma desenvolvedora **Fullstack**.
+### Back-end em formação • ADS — IFCE
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+Simplicidade.<br>
+Precisão.<br>
+Propósito.<br>
 
 ---
 
-### 📫 Contato
+## 🛠️ Tecnologias
 
-<div style="display: flex; gap: 10px;">
-  <a href="mailto:ohnapaula@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ohnapaula/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat\&logo=javascript)<br>
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat\&logo=nodedotjs)<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat\&logo=postgresql)<br>
+![Git](https://img.shields.io/badge/Git-000?style=flat\&logo=git)<br>
+![Linux](https://img.shields.io/badge/Linux-000?style=flat\&logo=linux)<br>
+
+---
+
+## 🌱 Desenvolvendo
+
+APIs • DSA • Arquitetura • SQL
+
+---
+
+## 🎯 Objetivo
+
+Primeira oportunidade como **estagiária/júnior em Back-end**.
+Comprometida, organizada e orientada a resultados.
+
+---
+
+## 📫 Contato
+
+**[ohnapaula@gmail.com](mailto:ohnapaula@gmail.com)**<br>
+[LinkedIn](https://www.linkedin.com/in/ohnapaula)
+
+---
+
+### *Nada supera a persistência.*
+
 </div>
